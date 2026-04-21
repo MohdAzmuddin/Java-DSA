@@ -19,6 +19,7 @@
 | [0389-find-the-difference](https://github.com/MohdAzmuddin/Java-DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/MohdAzmuddin/Java-DSA/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/MohdAzmuddin/Java-DSA/tree/main/0434-number-of-segments-in-a-string/) | Easy |
+| [0520-detect-capital](https://github.com/MohdAzmuddin/Java-DSA/tree/main/0520-detect-capital/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
